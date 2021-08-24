@@ -23,7 +23,11 @@ Go into the root of that folder in a terminal window and run the following comma
 12.	Once you have followed the instructions above, you should be able to go to your browser and navigate to localhost:3000
 
 ### Screenshots
-    
+![image](https://user-images.githubusercontent.com/76659895/130637227-efb44d8b-42b9-4af1-b61d-a27da366af63.png)
+![image](https://user-images.githubusercontent.com/76659895/130637262-7a665f8c-93a6-4cb3-896b-d5c84f9e8dae.png)
+![image](https://user-images.githubusercontent.com/76659895/130637300-31238a59-b0ab-4182-b467-edded9c55752.png)
+![image](https://user-images.githubusercontent.com/76659895/130637334-03aa22b5-86db-49ab-889d-c94979005263.png)
+
     
 ### Technology Used
 •	HTML/CSS/JS
